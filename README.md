@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @noamjgal
-- 👀 I’m searching for job opportunities (Data Analyst, Junior Data Scientist) in machine learning and the data sciences 
-- 🌱 I’m currently learning how to build deep learning models in PyTorch
-- 💪 I'm proficient in Python and SQL (MySQL)
-- 🧑‍🎓 I recently graduated with a B.Sc. in Mathematics and Urban Economics from the City University of New York
+- 👀 I’m searching for entry-level job opportunities in urban informatics and data science
+- 💪 I'm proficient in Python and SQL
+- 🧑‍🎓 I am studying for an MA degree in Smart Cities and Urban Informatics at the Hebrew University of Jerusalem and have previously completed a B.Sc. in Mathematics and Urban Economics from the City University of New York
 
 
 
