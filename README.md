@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noamjgal
 - 👀 I’m searching for job opportunities in urban informatics and data science
-- 💪 I'm proficient in Python
+- 💪 I'm proficient in Python, SQL, & GIS
 - 🧑‍🎓 I am studying for an MA degree in Smart Cities and Urban Informatics at the Hebrew University of Jerusalem and have previously completed a B.Sc. in Mathematics and Urban Economics from the City University of New York
 
 
