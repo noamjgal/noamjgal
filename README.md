@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noamjgal
-- 💪 I'm proficient in Python, SQL, & GIS
-- 👀 I’m interested in using data science to model urban systems
+- 💪 I'm proficient in Python, ML, & GIS
+- 👀 I’m interested in geospatial analytics
 
 
 <!---
