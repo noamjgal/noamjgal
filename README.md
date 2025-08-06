@@ -1,5 +1,6 @@
 # Hi there, I'm Noam Gal 👋
-**Lead Data Scientist** | **Machine Learning Engineer** | **Geospatial Expert**
+**Lead Data Scientist** | **Geospatial Expert** | **AI Researcher**|
+
 🌍 Based in Tel Aviv, Israel
 
 ---
@@ -95,5 +96,3 @@ const currentProjects = {
 ---
 
 ⭐ **Interested in GeoAI or Smart Cities? Let's talk shop about research and build something exciting together :)**
-
-![Profile Views](https://komarev.com/ghpvc/?username=noamjgal&color=brightgreen)
