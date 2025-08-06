@@ -1,7 +1,5 @@
 # Hi there, I'm Noam Gal 👋
-**Lead Data Scientist** | **Geospatial Expert** | **AI Researcher**
-
-🌍 Based in Tel Aviv, Israel
+**Lead Data Scientist @ nur** | **Geospatial Expert** | **AI Researcher**
 
 ---
 
