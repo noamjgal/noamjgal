@@ -50,20 +50,6 @@ My work bridges the gap between cutting-edge machine learning research (includin
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 🎯 Core Expertise
-
-```python
-expertise = {
-    "machine_learning": ["Deep Learning", "Location Encoding", "Spatial Clustering Methods"],
-    "geospatial_analytics": ["Urban Simulation", "Mobility Prediction", "Digital Twins", "Spatial Econometrics"],
-    "data_visualization": ["Interactive Dashboards", "Deck.gl Mapping", "Statistical Charts"],
-    "data_engineering": ["ETL Pipelines", "API Development", "Geospatial Data Wrangling"],
-    "leadership": ["Cross-functional Teams", "Technical Workshops", "Research Collaboration"]
-}
-```
-
 -----
 
 ## 📈 Current Focus
@@ -71,8 +57,8 @@ expertise = {
 ```javascript
 const currentProjects = {
   research: "Spatial Representation Learning for GeoAI",
-  development: "Real-time geospatial analytics platform for smart cities",
-  collaboration: "MIT City Science Lab x Negev Urban Research initiatives",
+  development: "Geospatial analytics visualization platforms",
+  collaboration: "MIT City Science Network x Negev Urban Research initiatives",
 };
 ```
 
