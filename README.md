@@ -24,4 +24,5 @@ My work bridges the gap between cutting-edge machine learning research (includin
 ---
 
 ⭐ **Interested in GeoAI or Smart Cities? Let's talk shop about research and build something exciting together :)**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noam-gal/)
